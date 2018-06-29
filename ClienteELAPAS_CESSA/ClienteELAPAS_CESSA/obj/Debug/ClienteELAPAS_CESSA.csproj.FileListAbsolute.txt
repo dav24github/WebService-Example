@@ -1,0 +1,9 @@
+c:\users\david\documents\visual studio 2013\Projects\ClienteELAPAS_CESSA\ClienteELAPAS_CESSA\bin\Debug\ClienteELAPAS_CESSA.exe.config
+c:\users\david\documents\visual studio 2013\Projects\ClienteELAPAS_CESSA\ClienteELAPAS_CESSA\bin\Debug\ClienteELAPAS_CESSA.exe
+c:\users\david\documents\visual studio 2013\Projects\ClienteELAPAS_CESSA\ClienteELAPAS_CESSA\bin\Debug\ClienteELAPAS_CESSA.pdb
+c:\users\david\documents\visual studio 2013\Projects\ClienteELAPAS_CESSA\ClienteELAPAS_CESSA\obj\Debug\ClienteELAPAS_CESSA.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2013\Projects\ClienteELAPAS_CESSA\ClienteELAPAS_CESSA\obj\Debug\ClienteELAPAS_CESSA.Form1.resources
+c:\users\david\documents\visual studio 2013\Projects\ClienteELAPAS_CESSA\ClienteELAPAS_CESSA\obj\Debug\ClienteELAPAS_CESSA.Properties.Resources.resources
+c:\users\david\documents\visual studio 2013\Projects\ClienteELAPAS_CESSA\ClienteELAPAS_CESSA\obj\Debug\ClienteELAPAS_CESSA.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2013\Projects\ClienteELAPAS_CESSA\ClienteELAPAS_CESSA\obj\Debug\ClienteELAPAS_CESSA.exe
+c:\users\david\documents\visual studio 2013\Projects\ClienteELAPAS_CESSA\ClienteELAPAS_CESSA\obj\Debug\ClienteELAPAS_CESSA.pdb

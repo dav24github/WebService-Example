@@ -1,0 +1,6 @@
+c:\users\david\documents\visual studio 2013\Projects\ServicioWebELAPAS\ServicioWebELAPAS\bin\ServicioWebELAPAS.dll.config
+c:\users\david\documents\visual studio 2013\Projects\ServicioWebELAPAS\ServicioWebELAPAS\bin\ServicioWebELAPAS.dll
+c:\users\david\documents\visual studio 2013\Projects\ServicioWebELAPAS\ServicioWebELAPAS\bin\ServicioWebELAPAS.pdb
+c:\users\david\documents\visual studio 2013\Projects\ServicioWebELAPAS\ServicioWebELAPAS\obj\Debug\ServicioWebELAPAS.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2013\Projects\ServicioWebELAPAS\ServicioWebELAPAS\obj\Debug\ServicioWebELAPAS.dll
+c:\users\david\documents\visual studio 2013\Projects\ServicioWebELAPAS\ServicioWebELAPAS\obj\Debug\ServicioWebELAPAS.pdb
